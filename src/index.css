@@ -1,4 +1,4 @@
-@import '@fontsource/univers';
+@import '@fontsource/inter';
 
 @tailwind base;
 @tailwind components;
@@ -11,7 +11,7 @@
 }
 
 body {
-  font-family: 'Univers', sans-serif;
+  font-family: 'Inter', sans-serif;
   background-color: var(--black);
   color: var(--white);
 }

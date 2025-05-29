@@ -7,7 +7,7 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        sans: ['Univers', 'sans-serif'],
+        sans: ['Inter', 'sans-serif'],
       },
       colors: {
         'phthalo-green': '#123832',
